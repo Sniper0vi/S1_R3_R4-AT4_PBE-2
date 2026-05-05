@@ -188,7 +188,7 @@ collection:
               value: ""
               description: ""
               disabled: false
-              fileName: C:\Users\48291616809\Downloads\linguica.png
+              fileName: C:\Users\48291616809\Documents\images\linguica.png
               type: file
         headers:
           - name: Content-Type
@@ -234,7 +234,7 @@ collection:
               value: ""
               description: ""
               disabled: false
-              fileName: C:\Users\48291616809\Downloads\salsicha01.png
+              fileName: C:\Users\48291616809\Documents\images\salsicha.png
               type: file
         parameters:
           - name: id
